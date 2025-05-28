@@ -13,7 +13,7 @@
 
 ## 🧩 Introduction
 
-Welcome! If you've found this repository, you're probably trying to understand how Google Family Link works — and sometimes doesn't work as intended.
+Welcome! If you've found this repository, you're probably trying to understand how Google Family Link works and sometimes doesn't work as intended.
 
 This project was born from real-life experience between siblings. It documents methods used to bypass restrictions set by Family Link, not to promote rebellion or strict control, but to help both sides understand what’s really happening under the hood.
 
